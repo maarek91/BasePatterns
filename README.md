@@ -1,17 +1,28 @@
 # BasePatterns
 
 BasePatterns
+
 Реализация основных паттернов программирования 
 
 Структура:
 
 Creational patterns:
 
-Singleton
-Builder
-Prototype
-Factory
-Abstract Factory
+-Singleton
+-Builder
+-Prototype
+-Factory
+-Abstract Factory
+
+Structure patterns:
+
+-Adapter 
+-Bridge
+-Flyweight
+-Composite
+-Decorator
+-Facade
+-Proxy
 
 
-Behavior and structure patterns в процессе добавления
+Behavior patterns в процессе добавления

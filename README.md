@@ -26,3 +26,6 @@ Structure patterns:
 
 
 Behavior patterns в процессе добавления
+-Command
+-Chain
+-Iterator

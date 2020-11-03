@@ -25,7 +25,18 @@ Structure patterns:
 -Proxy
 
 
-Behavior patterns в процессе добавления
+Behavior patterns:
+
 -Command
 -Chain
 -Iterator
+-Interpreter 
+-Moderator
+-Memento
+-Observer
+-State
+-Strategy
+-Template
+-Visitor
+
+
